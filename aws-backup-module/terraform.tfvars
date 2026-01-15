@@ -1,5 +1,5 @@
 # General
-name_prefix = "mock-eks-backup"
+name_prefix = "mock-backup"
 
 owner_tag_value = "platform-team"
 
