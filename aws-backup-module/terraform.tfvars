@@ -1,7 +1,7 @@
 # General
 name_prefix = "mock-backup"
 
-owner_tag_value = "platform-team"
+owner_tag_value = "aws-cloud-engineer"
 
 # Regions
 primary_region   = "eu-central-1"
